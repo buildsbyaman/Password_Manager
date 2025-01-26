@@ -1,5 +1,7 @@
 My project is a Password Manager built with React, designed to securely store and manage passwords for different websites and applications. It provides a simple, user-friendly interface with the following key features:
 
+Deployed Link - https://password-manager-neon-ten.vercel.app
+
 Adding Passwords: The app allows users to input essential details like email, password, username, website URL, and the date of creation for each password.
 Displaying Data: The entered information is displayed in a card layout, making it easy to view stored passwords in an organized manner.
 Delete Functionality: Users can delete specific password entries from the list when necessary, giving them full control over their stored data.

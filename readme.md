@@ -1,4 +1,4 @@
-# 🔐 Password Manager
+# Password Manager
 
 A frontend **React** application to securely store and manage passwords for websites and applications, featuring a simple, user-friendly interface.
 
